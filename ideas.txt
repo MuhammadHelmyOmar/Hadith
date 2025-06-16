@@ -1,2 +1,4 @@
 - تحليل وقياس الأساليب التي تجذب وتؤثر في نشر الأحاديث.
-- clustering according to word level and phrase level.
+- Clustering according to word level and phrase level.
+- I might need to lemmatize the words.
+- 
