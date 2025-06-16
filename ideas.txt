@@ -1,0 +1,2 @@
+- تحليل وقياس الأساليب التي تجذب وتؤثر في نشر الأحاديث.
+- clustering according to word level and phrase level.
