@@ -5,3 +5,4 @@
 
 Q:
 - Words are similar in certain dimensions. Can I focus on certain dimensions while clustering?
+  - How to identify those dimensions?
