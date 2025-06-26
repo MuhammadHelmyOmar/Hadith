@@ -1,4 +1,4 @@
-- تحليل وقياس الأساليب التي تجذب وتؤثر في نشر الأحاديث.
+- Analyzing the different styles that capture people's attention or influence them.
 - Clustering according to word level and phrase level.
 - I might need to lemmatize the words.
 - Check if the set of words in each degree belongs to the same semantic field.
