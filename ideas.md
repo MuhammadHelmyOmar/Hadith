@@ -1,3 +1,4 @@
+# Ideas
 - Analyzing the different styles that capture people's attention or influence them.
 - Clustering according to word level and phrase level.
 - I might need to lemmatize the words.
