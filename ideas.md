@@ -7,6 +7,8 @@
 - Check which distribution or context each word/phrase belongs to.
   - Form/Find the distribution of each degree
   - Distribution should represent the style
+- Trying the syntactic language model (probabilistic context-free grammars)
+- Trying language diffusion models in stylometry (if Llada models destroy the syntactic structure)
 
 # Q
 - Words are similar in certain dimensions. Can I focus on certain dimensions while clustering?
