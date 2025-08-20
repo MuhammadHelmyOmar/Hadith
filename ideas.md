@@ -9,6 +9,7 @@
   - Distribution should represent the style
 - Trying the syntactic language model (probabilistic context-free grammars)
 - Trying language diffusion models in stylometry (if Llada models destroy the syntactic structure)
+- Checking and analyzing according to the time periods
 
 # Q
 - Words are similar in certain dimensions. Can I focus on certain dimensions while clustering?
