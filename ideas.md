@@ -2,10 +2,10 @@
 - Analyzing the different styles that capture people's attention or influence them.
 - Clustering according to word level and phrase level.
 - I might need to lemmatize the words.
-- Check if the set of words in each degree belongs to the same semantic field.
-  - LDA
+- Comparing topical distribution (LDA, BERTopic)
 **- Trying the syntactic language model (probabilistic context-free grammars)**
 - Trying language diffusion models in stylometry (if Llada models destroy the syntactic structure)
+- Comparing the sentiment
 
 # Q
 - Words are similar in certain dimensions. Can I focus on certain dimensions while clustering?
