@@ -4,12 +4,8 @@
 - I might need to lemmatize the words.
 - Check if the set of words in each degree belongs to the same semantic field.
   - LDA
-- Check which distribution or context each word/phrase belongs to.
-  - Form/Find the distribution of each degree
-  - Distribution should represent the style
-- Trying the syntactic language model (probabilistic context-free grammars)
+**- Trying the syntactic language model (probabilistic context-free grammars)**
 - Trying language diffusion models in stylometry (if Llada models destroy the syntactic structure)
-- Checking and analyzing according to the time periods
 
 # Q
 - Words are similar in certain dimensions. Can I focus on certain dimensions while clustering?
@@ -18,5 +14,4 @@
 # Readings
 - Vector semantics and embeddings from SLP
 - Authorship Style
-- Other papers sent by Mahmoud
 - Appendix G in SLP
