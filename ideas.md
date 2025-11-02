@@ -14,6 +14,7 @@ Priority 2
   - Feature Importance: Methods like SHAP use game theory to assign importance values to input features, showing which ones most influenced a decision. 
   - Counterfactuals: These explanations describe the minimum changes to the input that would lead to a different outcome, helping users understand how to alter a decision.
   - Trying language diffusion models in stylometry (if Llada models destroy the syntactic structure)
+- Try Anomaly Detection
   
 # Q
 - Words are similar in certain dimensions. Can I focus on certain dimensions while clustering?
