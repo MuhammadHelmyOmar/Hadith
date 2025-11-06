@@ -3,6 +3,7 @@
 Priority 1
 - Use a morphological analyzer for preprocessing before the bow.
 - Use TF-IDF or TF-IGF
+- Use n-grams
   
 Priority 2
 - Clustering according to word level and phrase level.
