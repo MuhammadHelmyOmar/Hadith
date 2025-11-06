@@ -1,16 +1,18 @@
 # Ideas
 
 Priority 1
+- Use a morphological analyzer for preprocessing before the bow.
+- Use TF-IDF or TF-IGF
+  
+Priority 2
 - Clustering according to word level and phrase level.
 - Comparing topical distribution (LDA, BERTopic)
 **- Trying the syntactic language model (probabilistic context-free grammars)**
 - Comparing the sentiment
 - Cluster minimas and maximas using vector semantics
-- Use TF-IDF or TF-IGF
 - Experimenting with attention
-- Use morphology
 
-Priority 2
+Priority 3
 - Analyzing the different styles that capture people's attention or influence them.
 - Explainable AI
   - Local Explanations: Techniques like LIME approximate the behavior of complex models with simpler, interpretable models to highlight factors influencing a specific prediction. 
