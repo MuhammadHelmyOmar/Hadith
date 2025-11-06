@@ -26,5 +26,5 @@ Priority 2
 
 # Readings
 - Vector semantics and embeddings from SLP
-- Authorship Style
+- Stylometry Analysis
 - Appendix G in SLP
