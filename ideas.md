@@ -5,6 +5,9 @@ Priority 1
 - Comparing topical distribution (LDA, BERTopic)
 **- Trying the syntactic language model (probabilistic context-free grammars)**
 - Comparing the sentiment
+- Cluster minimas and maximas using vector semantics
+- Use TF-IDF or TF-IGF
+- Experimenting with attention
 
 Priority 2
 - Analyzing the different styles that capture people's attention or influence them.
