@@ -8,6 +8,7 @@ Priority 1
 - Cluster minimas and maximas using vector semantics
 - Use TF-IDF or TF-IGF
 - Experimenting with attention
+- Use morphology
 
 Priority 2
 - Analyzing the different styles that capture people's attention or influence them.
